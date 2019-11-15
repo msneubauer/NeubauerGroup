@@ -18,13 +18,11 @@
 
 - name: Markus Atkinson
   photo: Atkinson.png
-  info: Ph.D. Student, started September 2010
+  info: Postdoctoral Research Associate
   email: atkinsn2@illinois.edu
-  number_educ: 1
-  education1: B.S. University of Colorado, Boulder
-  education2:
-  education3:
-  education4:
+  number_educ: 2
+  education1: Ph.D. Physics from <a href="https://physics.illinois.edu/">University of Illinois at Urbana-Champaign</a> with <a href="https://msneubauer.github.io">Mark Neubauer</a>
+  education2: B.S. University of Colorado, Boulder
 
 - name: Jiancong Zeng
   photo: Zeng.png
