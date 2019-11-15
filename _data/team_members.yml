@@ -8,6 +8,14 @@
   education3:
   education4:
 
+- name: <a href="https://www.matthewfeickert.com/">Matthew Feickert</a>
+  photo: Feickert.png
+  info: Postdoctoral Research Associate
+  email: mfeicker@illinois.edu
+  number_educ: 2
+  education1: Ph.D. Physics from <a href="http://www.physics.smu.edu/web/">Southern Methodist University</a> with <a href="https://www.physics.smu.edu/sekula/">Stephen Sekula</a>
+  education2: B.S. University of Illinois at Urbana-Champaign
+
 - name: Markus Atkinson
   photo: Atkinson.png
   info: Ph.D. Student, started September 2010
