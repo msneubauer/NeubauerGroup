@@ -24,6 +24,13 @@
   education1: Ph.D. Physics from <a href="https://physics.illinois.edu/">University of Illinois at Urbana-Champaign</a> with <a href="https://msneubauer.github.io">Mark Neubauer</a>
   education2: B.S. University of Colorado, Boulder
 
+- name: <a href="https://bengalewsky.github.io/">Ben Galewsky</a>
+  photo: Galewsky.jpg
+  info: Research Programmer at <a href="http://www.ncsa.illinois.edu/">National Center for Supercomputing Applications</a>
+  email: bengal1@illinois.edu
+  number_educ: 1
+  education1: B.S. Texas A&M University
+
 - name: Jiancong Zeng
   photo: Zeng.png
   info: Ph.D. Student, started Fall 2013
