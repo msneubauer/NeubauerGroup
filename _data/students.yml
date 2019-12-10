@@ -7,13 +7,6 @@
 #  education2:
 #  education3:
 #  education4:
-- name: James Bonham
-  photo: JB.jpg
-  info: Bachelor's degree student
-  email: jbonham2@illinois.edu
-  number_educ: 0
-  education1:
-
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="/NeubauerGroup/vacancies">openings</a> for more info
