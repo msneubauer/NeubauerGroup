@@ -189,15 +189,20 @@ permalink: /team/
   <tr>
     <td>Viviana Cavaliere</td>
     <td>Allison McCarn</td>
-    <td>James Bonham</td>
+    <td>Nirali Bhatt</td>
   </tr>
   <tr>
     <td>Lulu Liu</td>
     <td>Phllip Chang</td>
-    <td>Matthew Feickert</td>
+    <td>James Bonham</td>
   </tr>
   <tr>
     <td>Anna Sfyrla</td>
+    <td></td>
+    <td>Matthew Feickert</td>
+  </tr>
+  <tr>
+    <td></td>
     <td></td>
     <td>James Garcia</td>
   </tr>
